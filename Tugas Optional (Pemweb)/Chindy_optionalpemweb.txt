@@ -1,0 +1,5 @@
+NAMA : CHINDY AYUDIA SF
+NIM  : 18051204012
+KELAS: TI 2018A
+
+Tugas optional pemrograman web ini saya menerapkan materi PHP GET and POST

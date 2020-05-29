@@ -1,0 +1,6 @@
+NAMA : Chindy Ayudia SF
+Nim  : 18051204012
+
+WPF_Sidebar menu
+
+tugas optional kedua pemrograman visual ini saya menerapkan materi WPF dan XAML

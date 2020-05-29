@@ -1,0 +1,45 @@
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\bin\Debug\WpfSidebarMenu.exe.config
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\bin\Debug\WpfSidebarMenu.exe
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\bin\Debug\WpfSidebarMenu.pdb
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.csprojAssemblyReference.cache
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\MainWindow.g.cs
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\App.g.cs
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu_MarkupCompile.cache
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu_MarkupCompile.lref
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\MainWindow.baml
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.g.resources
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.Properties.Resources.resources
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.csproj.GenerateResource.cache
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.csproj.CoreCompileInputs.cache
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.exe
+C:\Users\Asus-Pc\Documents\semester4\pemvis\WpfSidebarMenu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.pdb
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\bin\Debug\WpfSidebarMenu.exe.config
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\bin\Debug\WpfSidebarMenu.exe
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\bin\Debug\WpfSidebarMenu.pdb
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.csprojAssemblyReference.cache
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\MainWindow.g.cs
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\App.g.cs
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\WpfSidebarMenu_MarkupCompile.cache
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\WpfSidebarMenu_MarkupCompile.lref
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\MainWindow.baml
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.g.resources
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.Properties.Resources.resources
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.csproj.GenerateResource.cache
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.csproj.CoreCompileInputs.cache
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.exe
+C:\Users\Asus-Pc\Documents\semester4\pemvis\TUGAS OPSIONAL- WPF\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.pdb
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\bin\Debug\WpfSidebarMenu.exe.config
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\bin\Debug\WpfSidebarMenu.exe
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\bin\Debug\WpfSidebarMenu.pdb
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.csprojAssemblyReference.cache
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\MainWindow.g.cs
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\App.g.cs
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu_MarkupCompile.cache
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu_MarkupCompile.lref
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\MainWindow.baml
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.g.resources
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.Properties.Resources.resources
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.csproj.GenerateResource.cache
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.csproj.CoreCompileInputs.cache
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.exe
+C:\Users\Asus-Pc\Documents\TUGAS INDIVIDU\Tugas Optional (PemVis)\WPF_Sidebar menu\WpfSidebarMenu\obj\Debug\WpfSidebarMenu.pdb

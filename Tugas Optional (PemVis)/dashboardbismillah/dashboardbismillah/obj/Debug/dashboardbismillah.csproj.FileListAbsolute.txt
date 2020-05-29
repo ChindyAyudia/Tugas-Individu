@@ -1,0 +1,12 @@
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\bin\Debug\dashboardbismillah.exe.config
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\bin\Debug\dashboardbismillah.exe
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\bin\Debug\dashboardbismillah.pdb
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\obj\Debug\dashboardbismillah.csprojAssemblyReference.cache
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\obj\Debug\dashboardbismillah.Form1.resources
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\obj\Debug\dashboardbismillah.Properties.Resources.resources
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\obj\Debug\dashboardbismillah.csproj.GenerateResource.cache
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\obj\Debug\dashboardbismillah.csproj.CoreCompileInputs.cache
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\obj\Debug\dashboardbismillah.exe
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\obj\Debug\dashboardbismillah.pdb
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\obj\Debug\dashboardbismillah.Form2.resources
+C:\Users\Asus-Pc\source\repos\dashboardbismillah\dashboardbismillah\obj\Debug\dashboardbismillah.Form3.resources

@@ -1,0 +1,6 @@
+NAMA : Chindy Ayudia SF
+Nim  : 18051204012
+
+WindowsForm
+
+tugas pertama optional pemrograman visual ini saya menerapkan materi Windows Form dan control
